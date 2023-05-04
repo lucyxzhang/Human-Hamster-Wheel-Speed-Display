@@ -16,4 +16,4 @@ Human Hamster Wheel GUI for displaying speed (arduino code and python)
 
 ### Note:
 - Only one program can be reading the serial port at a given time. You can't be running the GUI and the Serial Monitor in the Arduino software at the same time.
-- It will give you an error message about access. 
+It will give you an error message about access. 

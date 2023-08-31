@@ -4,7 +4,7 @@ Human Hamster Wheel GUI for displaying speed (arduino code and python)
 ### GUI
 - png file and python code necessary to run GUI
 - DO NOT alter the data being read from the serial port in the python file
-- rename serial port in the first few lines from "COM5" to the same port the arduino is connected to
+- rename serial port (USB port) in the first few lines from "COM5" to the same port the arduino is connected to
 - formatting was specified to my specifc computer's fullscreen, so formatting may need adjusting for other computer displays
 - Note for EHousers: if you have any questions about the code, reach out to me on the discord, my phone number is also in there somewhere
 
